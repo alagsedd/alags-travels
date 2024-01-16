@@ -1,0 +1,36 @@
+/* styles for screens of 300px */
+.nav {
+    margin: 0.3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #9aacc6;
+    margin-bottom: 0.3rem;
+}
+.brandName span {
+    color: #faf188;
+    font-weight: 700;
+    font-size: 1.7rem;
+}
+.toggleTool {
+    /* border: 3px solid deeppink; */
+}
+.toggleTool:hover {
+    cursor: pointer;
+}
+.verticalNav {
+    margin-top: 0.5rem;
+    border: 1px solid #9aacc6;
+    padding: 0.1rem;
+    list-style-type: none;
+}
+.verticalNav li {
+    font-weight: 500;
+    border: 1px solid  #9aacc6;
+    margin: 0.3rem;
+    padding: 0.3rem;
+}
+.link {
+    text-decoration: none;
+    color: inherit;
+}

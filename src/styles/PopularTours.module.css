@@ -1,0 +1,27 @@
+.parent {
+    /* border: 1px solid deeppink; */
+    /* padding: 0.5rem; */
+}
+.imgContainer {
+    height: 20rem;
+    width: 100%;
+    gap: 1rem;
+    padding: 0.3rem;
+    overflow-x: scroll;
+    display: flex;
+    border: 1px solid ;
+}
+.header {
+    margin: 0.2rem;
+    padding: 0.3rem;
+    /* border: 1px solid #95c014; */
+    display: flex;
+    justify-content: center;
+    letter-spacing: 0.1rem;
+}
+.header span {
+    font-weight: 700;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.8rem;
+    color: #faf188;
+}

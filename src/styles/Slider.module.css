@@ -1,0 +1,14 @@
+/* styles for screens of 300px */
+.parent {
+    margin: 0.3rem;
+    /* border: 2px solid #fff; */
+}
+.swiper {
+    /* border: 2px solid deeppink; */
+}
+.image {
+    filter: contrast(110%);
+    width: 100%;
+    height: 14rem;
+    object-fit: cover;
+}

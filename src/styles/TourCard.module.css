@@ -1,0 +1,32 @@
+/* styles for 300px */
+.card {
+    /* border: 1px solid #798698; */
+    height: 15rem;
+    /* width: 19rem; */
+    flex-shrink: 0;  /* Prevent cards from shrinking */
+}
+.card span {
+    color: #fff;
+    font-weight: 500;
+    font-size: 1.1rem;
+}
+.sub {
+    padding-right: 10rem;
+    padding: 0.4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: #4d596a; */
+}
+.image {
+    filter: contrast(110%);
+    width: 14rem;
+    height: 15rem;
+    object-fit: cover;
+}
+.icon {
+    margin-left: 1rem;
+}
+.icon:hover {
+    cursor: pointer;
+}
