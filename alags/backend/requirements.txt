@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-JWT-Extended
+Flask-CORS
+psycopg2-binary # For PostgreSQL, a common production database
+python-dotenv    # For managing environment variables
